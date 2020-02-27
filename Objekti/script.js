@@ -288,6 +288,8 @@ let superBlog = niz => {
 }
 superBlog(users);
 
+console.log("Nova poruka");
+
 
 
 
